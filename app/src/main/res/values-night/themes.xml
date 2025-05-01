@@ -1,0 +1,106 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for the night (dark) theme. -->
+    <style name="Base.Theme.DermDetect" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:popupBackground">@color/black</item>
+        <!-- Customize your dark theme here. -->
+        <!-- Outros estilos específicos do modo escuro -->
+    </style>
+
+    <style name="background">
+        <item name="android:background">@color/black_fsc</item>
+    </style>
+
+    <style name="text">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="toolbar">
+        <item name="android:background">@color/blue_fsc</item>
+    </style>
+
+    <!-- Auth Activities -->
+
+    <style name="ic_person">
+        <item name="android:tint">@color/color_cinza</item>
+    </style>
+
+    <!-- Settings Activity -->
+
+
+    <style name="edit_perfil">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:drawableTint">@color/white</item>
+    </style>
+
+    <style name="report">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:drawableTint">@color/white</item>
+    </style>
+
+    <style name="night_mode">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:drawableTint">@color/white</item>
+    </style>
+
+    <style name="privacy">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:drawableTint">@color/white</item>
+    </style>
+
+    <style name="help">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:drawableTint">@color/white</item>
+    </style>
+
+    <style name="sign_out">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:drawableTint">@color/white</item>
+    </style>
+
+
+
+    <style name="button">
+        <item name="android:backgroundTint">@color/blue_fsc</item>
+        <item name="tint">@color/white</item>
+    </style>
+
+    <style name="ic_menu">
+        <item name="android:src">@drawable/ic_menu_night</item>
+    </style>
+
+    <style name="ic_delete">
+        <item name="android:src">@drawable/ic_delete_dark</item>
+    </style>
+
+    <style name="icons">
+        <item name="tint">@color/white</item>
+    </style>
+
+    <style name="cardview">
+        <item name="android:backgroundTint">@color/blue_fsc</item>
+    </style>
+
+    <style name="image_cardview">
+        <item name="android:src">@drawable/ic_imageempty_white</item>
+    </style>
+
+
+
+    <!-- Informations Activity -->
+    <style name="description_drawable">
+        <item name="android:drawableStart">@drawable/ic_description_white</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="symptons_drawable">
+        <item name="android:drawableStart">@drawable/ic_symptons_white</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="treatment_drawable">
+        <item name="android:drawableStart">@drawable/ic_treatment_white</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+</resources>

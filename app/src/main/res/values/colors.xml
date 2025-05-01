@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- App Defaults Light Colors -->
+    <color name="color_cinza">#C6C6C6</color>
+    <color name="primary_color">#004453</color>
+    <color name="secundary_color">#18525A</color>
+    <color name="cinza">#454545</color>
+
+    <!-- Dark Colors -->
+    <color name="black_fsc">#202333</color>
+    <color name="blue_fsc">#3A3F53</color>
+
+    <color name="toolbar_blue">#08587E</color>
+    <color name="primary_blue">#38768E</color>
+    <color name="secundary_blue">#5AABC5</color>
+    <color name="terc_blue">#C2D5DA</color>
+
+    <!-- Instagram Colors -->
+    <color name="insta_start_top">#6D11FF</color>
+    <color name="insta_end_bottom">#FF0093</color>
+    <color name="insta_start_bottom">#FFCC00</color>
+    <color name="insta_gradiente" tools:ignore="ReferenceType">@drawable/insta_gradiente</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+</resources>
